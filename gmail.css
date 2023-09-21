@@ -1,0 +1,62 @@
+body{
+    background-image: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);
+    color: white;
+}
+
+.contenitore{
+    width: 1000px;
+    margin: auto
+}
+
+.logo{
+    width: 125px;
+}
+
+.logotesto{
+    font-size: 25px;
+    display: inline-block;
+
+}
+
+h2{
+    font-size: 18px;
+}
+
+#cerchio{
+    border-radius: 50%;
+    background-color: orange;
+    padding: 5px;
+}
+
+.stella{
+    color: black;
+}
+.letta{
+    background-color: gray;
+    color: black;
+}
+
+.nonletta{
+    background-color: lightgray;
+    color: black;
+}
+
+.riga-sx{
+    display: inline-block;
+    width: 30%;
+}
+
+.riga-dx{
+    display: inline-block;
+    width: 65%;
+}
+
+
+footer{
+    text-align: center;
+}
+
+#scritta{
+    font-size: 25px;
+    
+}
